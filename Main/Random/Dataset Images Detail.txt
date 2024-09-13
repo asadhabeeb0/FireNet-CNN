@@ -1,0 +1,9 @@
+Train
+
+Fire	1124	136MB	123.9KB per image
+NoFire	1301	352MB	277KB per imae
+
+Test
+
+Fire	593	113MB	195KB per image
+NoFire	278	94MB	345KB per image

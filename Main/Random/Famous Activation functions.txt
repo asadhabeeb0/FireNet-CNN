@@ -1,9 +1,0 @@
-Tanh (hyperbolic tangent): This activation function outputs values between -1 and 1, and is useful in the hidden layers of a neural network.
-
-Leaky ReLU: This is similar to the ReLU activation function, but instead of setting all negative values to 0, it sets them to a small fraction of their original value. This helps to prevent the "dying ReLU" problem.
-
-ELU (exponential linear unit): This activation function is similar to the ReLU function, but it allows negative values and has a smooth curve that can help with gradient descent.
-
-Softplus: This activation function is a smooth approximation of the ReLU function, and can be useful in some situations where ReLU doesn't work well.
-
-Swish: This activation function is similar to the sigmoid function, but has a smoother gradient and can lead to better performance in some situations.
